@@ -1,0 +1,1 @@
+Place your own optimised project screenshots and professional portrait in this folder. Update the portfolio HTML to reference them.
